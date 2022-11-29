@@ -1,0 +1,15 @@
+
+.footer-container{ 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 6rem;
+    position: relative;
+    
+}
+.footer-container span{
+    color: #fff;
+    position: absolute;
+    left: 15%;
+    transform: translateY(150%);
+    }
